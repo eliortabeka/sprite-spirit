@@ -1,0 +1,19 @@
+{
+  "name": "sprite-spirit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/eliorshalev/sprite-spirit",
+  "authors": [
+    "Elior Shalev Tabeka (hello@eliorshalev.com)"
+  ],
+  "description": "SCSS Mixin that Brings Image Sprite to life",
+  "main": "scss/sprite-spirit.css",
+  "keywords": [
+    "Image-Sprite",
+    "Animation",
+    "Generator"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
