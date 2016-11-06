@@ -1,5 +1,13 @@
 # Sprite Spirit
-SCSS Mixin that Brings Image Sprite to **life**.
+
+SCSS Mixin that Brings Image Sprite to **life**
+
+
+### Image Sprite to Animation Generator:
+https://eliorshalev.github.io/sprite-spirit/
+
+![sprite spirit](/sprite-spirit.gif)
+
 
 **Quick start using CDN:**
 ```
@@ -35,8 +43,6 @@ Include Sprite Spirit Mixin in your project and then use it like:
 #### Demo of Usage
 http://codepen.io/eliorshalev/pen/ObPRrw
 
-#### Generator:
-https://eliorshalev.github.io/sprite-spirit/
-
 ### Credit
+
 Handcrafted with love by [Elior Shalev Tabeka](http://codepen.io/eliorshalev)
