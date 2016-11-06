@@ -34,7 +34,7 @@ Include Sprite Spirit Mixin in your project and then use it like:
 * **$reverse** - Boolean - Reverse Animation
 
 #### Demo of Usage
-https://eliorshalev.github.io/sprite-spirit/
+http://codepen.io/eliorshalev/pen/ObPRrw
 
 
 ### Image Sprite to Animation Generator:
