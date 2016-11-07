@@ -2,7 +2,7 @@
   "name": "sprite-spirit",
   "version": "1.0.0",
   "description": "SCSS Mixin that Brings Image Sprite to life",
-  "main": "scss/sprite-spirit.scss",
+  "main": "_sprite-spirit.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eliorshalev/sprite-spirit"

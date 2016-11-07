@@ -6,7 +6,7 @@
     "Elior Shalev Tabeka (hello@eliorshalev.com)"
   ],
   "description": "SCSS Mixin that Brings Image Sprite to life",
-  "main": "scss/sprite-spirit.css",
+  "main": "_sprite-spirit.css",
   "keywords": [
     "Image-Sprite",
     "Animation",
