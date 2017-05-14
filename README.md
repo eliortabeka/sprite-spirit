@@ -4,7 +4,7 @@ SCSS Mixin that Brings Image Sprite to **life**
 
 
 ### Image Sprite to Animation Generator:
-https://eliorshalev.github.io/sprite-spirit/
+https://eliortabeka.github.io/sprite-spirit/
 
 ![sprite spirit](/sprite-spirit.gif)
 
