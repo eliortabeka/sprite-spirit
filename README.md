@@ -41,8 +41,8 @@ Include Sprite Spirit Mixin in your project and then use it like:
 * **$reverse** - Boolean - Reverse Animation - false is Default
 
 #### Demo of Usage
-http://codepen.io/eliorshalev/pen/ObPRrw
+http://codepen.io/eliortabeka/pen/ObPRrw
 
 ### Credit
 
-Handcrafted with love by [Elior Shalev Tabeka](http://codepen.io/eliorshalev)
+Handcrafted with love by [Elior Shalev Tabeka](http://codepen.io/eliortabeka)
